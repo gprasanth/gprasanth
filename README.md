@@ -22,10 +22,10 @@
 
 ### Firsts
 
-**Programming Language:** &emsp; HTML!<br />
-**Scripting Language:** &emsp; PHP!<br />
-**Computer:** &emsp; Pentium 4, 256 MB, 20 GB, XP<br />
-**Distro:** &emsp; Ubuntu 7.04 (Feisty Fawn)
+**Programming Language:** &emsp; &emsp; HTML!<br />
+**Scripting Language:** &emsp; &emsp; &emsp; &nbsp;&nbsp; PHP!<br />
+**Computer:** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; Pentium 4, 256 MB, 20 GB, XP<br />
+**Distro:** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; Ubuntu 7.04 (Feisty Fawn)
 
 ---
 
