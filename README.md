@@ -18,8 +18,9 @@
 
 **Services:**
 
-- [brew](https://homebrew.sh)
 - [lichess](https://lichess.org)
+- [brew](https://homebrew.sh)
+- [typeracer](https://play.typeracer.com)
 - [whatsmydns](https://whatsmydns.net)
 - [letsencrypt](https://letsencrypt.org)
 - [no-ip](https://no-ip.com)
@@ -72,7 +73,18 @@
 
 ---
 
+#TouchTyping4TW
+
+![typeracer](https://data.typeracer.com/misc/badge?user=gprasanth)
+
+#SoReadyToHelp
+
+[![StackExchange profile](https://stackexchange.com/users/flair/1329677.png?theme=clean)](https://stackexchange.com/users/1329677)
+
+#CodeEveryday
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gprasanth&count_private=true)
+
 <!--
 
 Here are some ideas to get you started:
