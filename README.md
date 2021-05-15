@@ -1,12 +1,14 @@
-# Hacker. Builder. Entrepreneur.
+# Hacker. &emsp; Builder. &emsp; Entrepreneur.
 
-[home](https://gprasanth.in) | [blog](https://jrnl.in) | [twitter](https://twitter.com/gprasanth92) | [linkedin](https://linkedin.com/in/gprasanth92) | [stackoverflow](https://stackoverflow.com/users/story/1273830)
+[home](https://gprasanth.in) &emsp; | &emsp; [blog](https://jrnl.in) &emsp; | &emsp; [twitter](https://twitter.com/gprasanth92) &emsp; | &emsp; [stackoverflow](https://stackoverflow.com/users/story/1273830) &emsp; | &emsp; [linkedin](https://linkedin.com/in/gprasanth92) &emsp; | &emsp; [email](mailto:prasanth+gh@emptycup.in)
 
 ---
 
+&nbsp;
+
 ### Favourites
 
-&mdash;&mdash;&mdash;
+&nbsp;
 
 **Languages:** &emsp; &nbsp;&emsp; JS, CSS, HTML, Python<br />
 **Editor:** &emsp; &emsp; &emsp; &emsp; Vim, VSCodeVim<br />
@@ -24,9 +26,15 @@
 **Extensions:**<br />
 [momentum](https://momentumdash.com) &emsp; [tampermonkey/greasemonkey](https://www.tampermonkey.net) &emsp; [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en) &emsp; [Clear Browsing Data](https://github.com/dessant/clear-browsing-data)
 
-&mdash;&mdash;&mdash;
+&nbsp;
+
+---
+
+&nbsp;
 
 ### Firsts
+
+&nbsp;
 
 **Programming Language:** &emsp; &emsp; HTML!<br />
 **Scripting Language:** &emsp; &emsp; &emsp; &nbsp;&nbsp; PHP!<br />
