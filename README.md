@@ -16,8 +16,6 @@
 
 **Browser**: Firefox, DuckDuckGo for Android
 
-**Comic**: Tinkle
-
 **Services:**
 
 - [brew](https://homebrew.sh)
