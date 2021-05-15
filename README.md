@@ -6,15 +6,25 @@
 
 ### Favourites
 
-**Languages:** &emsp; JS &emsp; CSS &emsp; HTML &emsp; Python
+**Languages:**
 
-**Editor:** &emsp; Vim &emsp; VSCodeVim
+JS &emsp; CSS &emsp; HTML &emsp; Python
 
-**Terminal:** &emsp; [iTerm2](https://iterm2.com)
+**Editor:**
 
-**Shell:** &emsp; zsh &emsp; [ohmyzsh](https://ohmyz.sh)
+Vim &emsp; VSCodeVim
 
-**Browser**: &emsp; Firefox &emsp; DuckDuckGo for Android
+**Terminal:**
+
+[iTerm2](https://iterm2.com)
+
+**Shell:**
+
+zsh &emsp; [ohmyzsh](https://ohmyz.sh)
+
+**Browser**:
+
+Firefox &emsp; DuckDuckGo for Android
 
 **Services:**
 
