@@ -39,7 +39,11 @@
 **Computer:** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; Pentium 4, 256 MB, 20 GB, XP<br />
 **Distro:** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; Ubuntu 7.04 (Feisty Fawn)
 
-&mdash;&mdash;&mdash;
+&nbsp;
+
+---
+
+&nbsp;
 
 **#TypeRacer**<br />
 ![typeracer](https://data.typeracer.com/misc/badge?user=gprasanth)
@@ -53,6 +57,8 @@
 
 **#CodeEveryday**<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gprasanth&count_private=true)
+
+&nbsp;
 
 <!--
 
