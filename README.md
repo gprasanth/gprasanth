@@ -6,15 +6,15 @@
 
 ### Favourites
 
-**Languages:** JS, CSS, HTML
+**Languages:** JS &emsp; CSS &emsp; HTML
 
-**Editor:** Vim, VSCodeVim
+**Editor:** Vim &emsp; VSCodeVim
 
 **Terminal:** [iTerm2](https://iterm2.com)
 
-**Shell:** zsh, [ohmyzsh](https://ohmyz.sh)
+**Shell:** zsh &emsp; [ohmyzsh](https://ohmyz.sh)
 
-**Browser**: Firefox, DuckDuckGo for Android
+**Browser**: Firefox &emsp; DuckDuckGo for Android
 
 **Services:**
 
@@ -22,9 +22,7 @@
 
 **Extensions:**
 
-- [momentum](https://momentumdash.com)
-- [tampermonkey/greasemonkey](https://www.tampermonkey.net)
-- [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en), [Clear Browsing Data](https://github.com/dessant/clear-browsing-data)
+[momentum](https://momentumdash.com) &emsp; [tampermonkey/greasemonkey](https://www.tampermonkey.net) &emsp; [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en) &emsp; [Clear Browsing Data](https://github.com/dessant/clear-browsing-data)
 
 ---
 
