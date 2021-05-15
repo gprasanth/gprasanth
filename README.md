@@ -6,15 +6,15 @@
 
 ### Favourites
 
-**Languages:** JS &emsp; CSS &emsp; HTML
+**Languages:** &emsp; JS &emsp; CSS &emsp; HTML &emsp; Python
 
-**Editor:** Vim &emsp; VSCodeVim
+**Editor:** &emsp; Vim &emsp; VSCodeVim
 
-**Terminal:** [iTerm2](https://iterm2.com)
+**Terminal:** &emsp; [iTerm2](https://iterm2.com)
 
-**Shell:** zsh &emsp; [ohmyzsh](https://ohmyz.sh)
+**Shell:** &emsp; zsh &emsp; [ohmyzsh](https://ohmyz.sh)
 
-**Browser**: Firefox &emsp; DuckDuckGo for Android
+**Browser**: &emsp; Firefox &emsp; DuckDuckGo for Android
 
 **Services:**
 
@@ -28,13 +28,13 @@
 
 ### Firsts
 
-**Programming Language:** HTML!
+**Programming Language:** &emsp; HTML!
 
-**Scripting Language:** PHP!
+**Scripting Language:** &emsp; PHP!
 
-**Computer:** Pentium 4, 256 MB, 20 GB, XP
+**Computer:** &emsp; Pentium 4, 256 MB, 20 GB, XP
 
-**Distro:** Ubuntu 7.04 (Feisty Fawn)
+**Distro:** &emsp; Ubuntu 7.04 (Feisty Fawn)
 
 ---
 
