@@ -6,7 +6,7 @@
 
 ### Favourites
 
-**Languages:** &emsp;  &emsp; JS, CSS, HTML, Python<br />
+**Languages:** &emsp; &nbsp;&emsp; JS, CSS, HTML, Python<br />
 **Editor:** &emsp; &emsp; &emsp; &emsp; Vim, VSCodeVim<br />
 **Terminal:** &emsp; &emsp; &emsp; [iTerm2](https://iterm2.com)<br />
 **Shell:** &emsp; &emsp; &emsp; &emsp; &nbsp; zsh, [ohmyzsh](https://ohmyz.sh)<br />
