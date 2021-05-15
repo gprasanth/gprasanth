@@ -1,8 +1,6 @@
 # Hacker. &emsp; Builder. &emsp; Entrepreneur.
 
-[home](https://gprasanth.in) &emsp; | &emsp; [blog](https://jrnl.in) &emsp; | &emsp; [twitter](https://twitter.com/gprasanth92) &emsp; | &emsp; [stackoverflow](https://stackoverflow.com/users/story/1273830) &emsp; | &emsp; [linkedin](https://linkedin.com/in/gprasanth92) &emsp; | &emsp; [email](mailto:prasanth+gh@emptycup.in)
-
----
+ &emsp; [home](https://gprasanth.in) &emsp; | &emsp; [blog](https://jrnl.in) &emsp; | &emsp; [twitter](https://twitter.com/gprasanth92) &emsp; | &emsp; [stackoverflow](https://stackoverflow.com/users/story/1273830) &emsp; | &emsp; [linkedin](https://linkedin.com/in/gprasanth92) &emsp; | &emsp; [email](mailto:prasanth+gh@emptycup.in)
 
 &nbsp;
 
