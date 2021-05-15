@@ -29,16 +29,13 @@
 
 ---
 
-#TouchTyping4TW
-
+#TypeRacer<br />
 ![typeracer](https://data.typeracer.com/misc/badge?user=gprasanth)
 
-#SoReadyToHelp
-
+#SOReadyToHelp<br/>
 [![StackExchange profile](https://stackexchange.com/users/flair/1329677.png?theme=clean)](https://stackexchange.com/users/1329677)
 
-#CodeEveryday
-
+#CodeEveryday<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gprasanth&count_private=true)
 
 <!--
