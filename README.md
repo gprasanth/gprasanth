@@ -70,6 +70,9 @@
 
 **Distro:** Ubuntu 7.04 (Feisty Fawn)
 
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gprasanth&count_private=true)
 <!--
 
 Here are some ideas to get you started:
