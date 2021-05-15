@@ -1,35 +1,76 @@
 # Hacker. Builder. Entrepreneur.
 
+[home](https://gprasanth.in) | [blog](https://jrnl.in) | [twitter](https://twitter.com/gprasanth92) | [linkedin](https://linkedin.com/in/gprasanth92) | [stackoverflow](https://stackoverflow.com/users/story/1273830)
+
+---
 
 ### Favourites
 
-**Language:** JS, CSS, HTML
-**Editor:** Vim, VSCodeVim<br />
-**Terminal:** [iTerm2](https://iterm2.com)<br />
-**Shell:** zsh, [ohmyzsh](https://ohmyz.sh)<br />
-**Services:**<br />
-- [stackoverflow](https://stackoverflow.com), 
-- [whatsmydns](https://whatsmydns.net), [letsencrypt](https://letsencrypt.org), [no-ip](https://no-ip.com)
-- [linode](https://linode.com), [digitalocean](https://digitalocean.com), [nearlyfreespeech](https://nearlyfreespeech.net)
-- [distrowatch](https://distrowatch.com), [usesthis](https://usesthis.com)
-- [tinypng](https://tinypng.com), [unsplash](https://unsplash.com)
+**Languages:** JS, CSS, HTML
+
+**Editor:** Vim, VSCodeVim
+
+**Terminal:** [iTerm2](https://iterm2.com)
+
+**Shell:** zsh, [ohmyzsh](https://ohmyz.sh)
+
+**Browser**: Firefox, DuckDuckGo for Android
+
+**Comic**: Tinkle
+
+**Services:**
+
+- [brew](https://homebrew.sh)
+- [lichess](https://lichess.org)
+- [whatsmydns](https://whatsmydns.net)
+- [letsencrypt](https://letsencrypt.org)
+- [no-ip](https://no-ip.com)
+- [cloudflare](https://cloudflare.com)
+- [linode](https://linode.com)
+- [digitalocean](https://digitalocean.com)
+- [nearlyfreespeech](https://nearlyfreespeech.net)
+- [distrowatch](https://distrowatch.com)
+- [usesthis](https://usesthis.com)
+- [tinypng](https://tinypng.com)
+- [unsplash](https://unsplash.com)
+- [gimp](https://www.gimp.org)
+- [inkscape](https://inkscape.org) 
 - [notionalvelocity](https://notationalvelocity.net)
-- [domainr](https://domainr.com), [name](https://name.com), [namecheap](https://namecheap.com), [pm.me](https://protonmail.com), [improvmx](https://improvmx.com)
-- [github](https://github.com/), [gist](https://gist.github.com/)
-- [pcpartpicker](https://pcpartpicker.com), [system76](https://system76.com)
-- [reddit](https://reddit.com), [hn](https://news.ycombinator.com)
+- [ghost](https://ghost.org)
+- [stackoverflow](https://stackoverflow.com)
+- [domainr](https://domainr.com)
+- [name](https://name.com)
+- [namecheap](https://namecheap.com)
+- [pm.me](https://protonmail.com)
+- [improvmx](https://improvmx.com)
+- [nextdns](https://nextdns.io)
+- [github](https://github.com/)
+- [gist](https://gist.github.com/)
+- [pcpartpicker](https://pcpartpicker.com)
+- [system76](https://system76.com)
+- [reddit](https://reddit.com)
+- [hn](https://news.ycombinator.com)
 - [youtube premium](https://youtube.com/premium)
 - [stumbleupon (defunkt)](https://stumbleupon.com)
+- [jsfiddle](https://jsfiddle.net)
 
+**Extensions:**
 
-### 1st
+- [momentum](https://momentumdash.com)
+- [tampermonkey/greasemonkey](https://www.tampermonkey.net)
+- [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en), [Clear Browsing Data](https://github.com/dessant/clear-browsing-data)
 
-**Language:** తెలుగు (Telugu)<br />
-**Programming Language:** HTML!<br />
-**Scripting Language:** PHP!<br />
-**Computer:** Pentium 4, 256 MB, 20 GB, XP<br />
+---
+
+### Firsts
+
+**Programming Language:** HTML!
+
+**Scripting Language:** PHP!
+
+**Computer:** Pentium 4, 256 MB, 20 GB, XP
+
 **Distro:** Ubuntu 7.04 (Feisty Fawn)
-
 
 <!--
 
